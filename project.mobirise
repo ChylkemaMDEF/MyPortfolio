@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MDEF Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "Term-1.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -63,7 +63,7 @@
     "uniqCompNum": 82,
     "versionPublish": "5.9.6",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "About-Me.html": {
